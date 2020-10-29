@@ -11,9 +11,8 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer science grad student at the University of Idaho in Coeur d'Alene. I love being able to explore new tech and see what I am able to make! </p>
+                    <h2 className="colorlib-heading">About Me</h2>
+                    <p>I am currently a computer science grad student at the University of Idaho in Coeur d'Alene. I recieved my bachelor's degree from U of I in December 2019.  I love being able to explore new tech and see what I am able to make! </p>
                     </div>
                 </div>
                 </div>
@@ -25,8 +24,7 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Areas of interest</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -37,7 +35,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>My formal education doesn't include web development, but it is something that I am actively learning outside of the classroom for pleasure. In fact, this webpage is my first website! How cool is that? I am excited to continue learning web development skills and putting work on display for all to see.</p>
                 </div>
                 </div>
             </div>
@@ -47,7 +45,7 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
+                    <h3>Microcontrollers and Embedded Systems</h3>
                     <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
                 </div>
                 </div>
