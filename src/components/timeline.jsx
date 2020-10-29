@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at GDIT <span> June 2020-present</span></h2>
-                        <p>I have a position as a computer science intern at General Dynamics Information Technology. I </p>
+                        <p>I have a position as a computer science intern at General Dynamics Information Technology.  </p>
                       </div>
                     </div>
                   </article>
@@ -32,14 +32,65 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Graduate Assistantship in the University of Idaho Computer Science Department<span>January 2020-present</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Graduate Assistantship in the University of Idaho Computer Science Department <span>January 2020-present</span></h2>
+                        <p>I have an assistantship within my department where I assist with class prep and grading as well as research. </p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>University of Idaho - Computer Science Master's Program <span>January 2020-Current</span></h2>
+                        <p>Course work has included Data Science, Neural Networks, and Python for Machine Learning. I am currently working on my thesis where I am developing software for automous navigation for a small underwater drone. </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none">
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>University of Idaho - Computer Science Undergraduate  <span>May 2017-December 2019</span></h2>
+                        <p>I completed an </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none">
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>University of Idaho - Computer Science Master's Program <span>January 2020-Current</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none">
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">

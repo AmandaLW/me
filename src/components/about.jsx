@@ -46,7 +46,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Microcontrollers and Embedded Systems</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>Many of the projects that I have done for both work and school have involved tiny computers. </p>
                 </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Robotics</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>Roboics was my first love in the computer science progam at my school. I helped program a three hundered pound robot to make coffee! In our program we use ROS to control the robots. I was the recipient of a scholarship to attend the ROS developers conference ROSCon in Macau.   </p>
                 </div>
                 </div>
             </div>
