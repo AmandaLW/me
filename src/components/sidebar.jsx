@@ -32,7 +32,7 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://www.linkedin.com/in/amanda-ward-aa6b5651/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://https://github.com/AmandaLW" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://www.github.com/AmandaLW" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
