@@ -331,12 +331,12 @@ figure {
           font-size: 12px;
           text-transform: uppercase;
           letter-spacing: 2px;
-          color: #000;
+          color: black;
           padding: 10px 15px !important;
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #000;
+            color: white;
             border: 1px solid #000;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
