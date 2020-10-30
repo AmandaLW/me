@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at GDIT <span> June 2020-present</span></h2>
-                        <p>I have a position as a computer science intern at General Dynamics Information Technology.  </p>
+                        <p>I have a position as a computer science intern at General Dynamics Information Technology. Over the summer I worked on a project involving programming microcontrollers with Javascript. I am currently an on-call employee.  </p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>University of Idaho - Computer Science Master's Program <span>January 2020-Current</span></h2>
-                        <p>Course work has included Data Science, Neural Networks, and Python for Machine Learning. I am currently working on my thesis where I am developing software for automous navigation for a small underwater drone. </p> 
+                        <p>Coursework has included Data Science, Neural Networks, and Python for Machine Learning. I am currently working on my thesis where I am developing software for automous navigation for a small underwater drone. </p> 
                       </div>
                     </div>
                   </article>
@@ -61,7 +61,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>University of Idaho - Computer Science Undergraduate  <span>May 2017-December 2019</span></h2>
-                        <p>I completed an </p> 
+                        <p>Coursework included software engineering, data structures and algorithms, robotics, RTOS and embedded systems. When completing an undergrad, all students are required to work on a year-long capstone project. All the projects are presented at the end of the year durring our design expo. My partner and I won Best of Show for 2019! We created a parking monitoring system that overlooked a nearby parking lot and determined which spots were avaialable and displayed that information in our app. </p> 
                       </div>
                     </div>
                   </article>
@@ -77,25 +77,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>University of Idaho - Computer Science Master's Program <span>January 2020-Current</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-6">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>University of Idaho - Computer Science Master's Program <span>January 2020-Current</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>University of Idaho - Summer Fellowship <span>May 2019-August2019</span></h2>
+                        <p>I wrote a proposal and budget for a summer project that the College of Undergraduate Research selected to fund. I worked on implementing code to have an underwater drone collect columns of geolocated data samples of Lake CDA. At the end of the summer I presented my work at Boise State University. </p> 
                       </div>
                     </div>
                   </article>

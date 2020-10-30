@@ -12,7 +12,8 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <h2 className="colorlib-heading">About Me</h2>
-                    <p>I am currently a computer science grad student at the University of Idaho in Coeur d'Alene. I recieved my bachelor's degree from U of I in December 2019.  I love being able to explore new tech and see what I am able to make! </p>
+                    <p>The fist thing you should know about me is that I love learning new things! I am currently working on earning my master's degree in Computer Science at the University of Idaho's Coeur d'Alene center. I also went to U of I for my undergrad in computer science, which I recieved in December of 2019. What I love most about the field is that there is always something new to learn and dive into. As tech continues to evolve and grow, I will have the opportunity to do so as well.  </p>
+                    <p>I have hobbies outside of tech as well. I love spending time outdoors with my family. That is a cliche statement, but it's true! We live in a beautiful area and I like to take advantage of that. We do a lot of bike riding and hiking durring the summer time. A new hobby I tackled durring the pandemic is gardening. I have been having a fun learning the ins and outs of growing food.</p>
                     </div>
                 </div>
                 </div>
@@ -57,7 +58,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Robotics</h3>
-                    <p>Roboics was my first love in the computer science progam at my school. I helped program a three hundered pound robot to make coffee! In our program we use ROS to control the robots. I was the recipient of a scholarship to attend the ROS developers conference ROSCon in Macau.   </p>
+                    <p>Roboics was my first love in the computer science progam at my school. My first robotics project was to work with a group to program a 300 lb to make coffee! In our program we use ROS to control the robots. I was the recipient of a scholarship to attend the ROS developers conference ROSCon in Macau.   </p>
                 </div>
                 </div>
             </div>
